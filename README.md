@@ -1,6 +1,6 @@
 # Movie-App
 
-# Insallation Steps:
+### Insallation Steps:
 1. clone this project
    open terminal choose directory (Desktop or Documents)
    Run in terminal:  git clone https://github.com/Sravan525/Movie-App.git
